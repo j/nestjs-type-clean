@@ -46,4 +46,4 @@ $ npm run test:e2e
 
 ## License
 
-`nestjs-type-mongodb` is [MIT licensed](LICENSE).
+`nestjs-type-clean` is [MIT licensed](LICENSE).
