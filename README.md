@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-$ yarn add nestjs-type-clean
+$ yarn add type-clean nestjs-type-clean
 ```
 
 ## Basic usage
